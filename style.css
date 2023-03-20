@@ -1,0 +1,113 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: gainsboro;
+}
+
+
+header {
+    background-color: red;
+    color: black;
+    text-align: center;
+    padding: 1rem;
+}
+
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+    text-align: center
+}
+
+
+section {
+    margin: 1rem;
+}
+
+
+h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    color: lawngreen
+    
+}
+
+h3 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+    text-align: center;
+    color: lawngreen
+}
+
+
+ul {
+    list-style: none;
+    margin-left: 1rem;
+    text-align: center;
+}
+
+li {
+    margin-bottom: 0.5rem;
+    text-align: center
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+}
+
+label {
+    margin-bottom: 0.5rem;
+}
+
+input {
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-bottom: 0.5rem;
+}
+
+button {
+    background-color: #333;
+    color: #fff;
+    padding: 0.5rem;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+p{
+    text-align: center;
+}
+
+.imagem {
+    max-width: 100%;
+    text-align: center;
+}
+
+
+#clique-aqui{
+    background-color: black;
+    color: red;
+    text-align: center;
+    
+}
+div{
+    text-align: center;
+}
