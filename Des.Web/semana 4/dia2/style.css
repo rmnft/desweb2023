@@ -1,0 +1,29 @@
+.wrapper {
+  display: flex;
+}
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 100px 100px;
+  gap: 10px;
+}
+p {
+  background-color: rgb(173, 20, 20);
+  border: 2px solid rgb(218, 231, 39);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
+body {
+  width: 500px;
+  margin: 0 auto;
+}
+.positioned {
+  position: absolute;
+}
+.positioned {
+  background: rgba(6, 167, 59, 0.3);
+  border: 2px solid rgb(250, 76, 183);
+  top: 30px;
+  left: 30px;
+}

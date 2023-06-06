@@ -1,0 +1,20 @@
+html {
+  background-color: black;
+  font-size: 20px;
+  font-family: "Open Sans";
+  color: #c71515;
+}
+#primeiro {
+  color: white;
+  font-size: 20px;
+}
+div {
+  background-color: rgb(10, 9, 9);
+  height: 5em;
+  width: 20em;
+}
+spam {
+  font-weight: bold;
+  color: aquamarine;
+  background-color: rgb(55, 59, 59);
+}
